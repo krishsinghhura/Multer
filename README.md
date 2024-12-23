@@ -18,8 +18,8 @@ Before running the project, ensure you have the following installed on your syst
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/krishsinghhura/Multer/tree/main
+   cd Multer
    ```
 
 2. Install dependencies:
